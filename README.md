@@ -27,7 +27,7 @@ Johns Hopkins University
 
 
 ## Downloads
-Please download UNA's weights ('./model/una.pth') and testing healthy and diseased images including both MRI and CT scans ('./data') in this [Google Drive folder](https://drive.google.com/drive/folders/1t6c1SpBbyuaecyNmxYh_ouQTcot_kkf-?usp=sharing), then move them into the './assets' folder in this repository. We also provided UNA's testing results for these testing samples in './results'.
+Please download UNA's weights ('./model/una.pth') and testing healthy and diseased images including both MRI and CT scans ('./data') in this [OneDrive folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/pliu53_jh_edu/IgA7S98I0xrAQYg48y3MAocnAWHD970gZvZKFMzd7dm45Zk?e=zweJpj), then move them into the './assets' folder in this repository. We also provided UNA's testing results for these testing samples in './results'.
 
 
 ## Environment
